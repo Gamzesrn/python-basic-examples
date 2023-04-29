@@ -1,2 +1,2 @@
-# python-basic-examples
-burada python programlama diline ait temel örnekler bulabilirsiniz
+# python-examples
+burada python programlama diline ait örnekler bulabilirsiniz
